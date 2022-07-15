@@ -17,3 +17,7 @@ Pillow==9.1.0
 sqlparse==0.4.2
 
 whitenoise==6.1.0
+
+Mais detalhes sobre esse projeto no meu portifólio, no link: 
+
+http://jvitorwolfart.pinheirasc.com/index.php/2022/07/15/projeto-estoque/
