@@ -22,6 +22,6 @@ Mais detalhes sobre esse projeto no meu portifólio, no link:
 
 http://jvitorwolfart.pinheirasc.com/index.php/2022/07/15/projeto-estoque/
 
-Link para o deploy deste projeto no Heroku:
+Link para o deploy deste projeto na minha VPS:
 
-http://estoque-jv-senac.herokuapp.com/
+https://estoque.pinheirasc.com/
